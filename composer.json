@@ -1,0 +1,16 @@
+{
+  "name": "ideesdefous/sef-client",
+  "description": "This package is used to retrieve data from the SEF-Scores platform for different tournaments",
+  "keywords": ["sef", "scores", "fencing"],
+  "minimum-stability": "stable",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "Les Idées de Fous Inc",
+      "email": "info@ideesdefous.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
