@@ -1,7 +1,7 @@
 # SEF Client
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
+[![Software License][ico-license]](LICENSE)
 [![Total Downloads][ico-downloads]][link-downloads]
 
 Client to receive events and fencers from the SEF-Scores fencing platform with ease
@@ -26,7 +26,7 @@ Coming soon!
 
 ## License
 
-The Apache License 2.0(Apache). Please see [License File](LICENSE.md) for more information.
+The Apache License 2.0(Apache). Please see [License File](LICENSE) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/ideesdefous/sef-client.svg
 [ico-license]: https://img.shields.io/packagist/l/ideesdefous/sef-client.svg
